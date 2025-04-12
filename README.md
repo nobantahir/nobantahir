@@ -1,4 +1,4 @@
-# Hello, I'm Noban Tahir ✌️
+# Howdy, I'm Noban Tahir ✌️
 
 ## 🐘 Full Stack Developer | Product Manager | UX Advocate
 
