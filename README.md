@@ -2,21 +2,32 @@
 
 ## 🐘 Full Stack Developer | Product Manager | UX Advocate | AI Builder
 
-Informatics (HCI) student at UC Irvine graduating Spring 2025. I build efficient, user-centered software solutions focused on health technology, education, and responsible AI/LLM integration.
+I am an Informatics (HCI) graduate from UC Irvine 25'. I build efficient, user-centered software solutions focused on health technology, education, and responsible AI/LLM integration.
 
 ---
 
 ### 🔧 Technical Skills
-- **Languages:** Python, JavaScript, HTML/CSS, TypeScript *(learning)*
+- **Languages:** Python, JavaScript, HTML/CSS, GDScript
 - **Frontend:** React, Bootstrap, Figma
 - **Backend:** Node.js, Flask
-- **AI/ML & LLM Tools:** OpenAI (GPT-4.1), LangChain *(learning)*, LangGraph *(learning)*, Gradio *(learning)*, Prompt Engineering, Agentic AI Workflows
+- **AI/ML & LLM Tools:** OpenAI API, Prompt Engineering, Agentic AI Workflows
 - **Frameworks & Platforms:** Streamlit, Godot Engine
 - **Version Control:** Git, GitHub
 
 ---
 
-### 🤖 AI & LLM Projects
+### 🤖 Completed Projects
+
+#### [NASA - Psyched Out](https://github.com/MissionToPsyche-Iridium/iridium_21r_web_game-uci)  
+- Created an educational RPG for NASA using the Godot Engine that teaches school aged children about asteroid Psyche’s surface and metals.
+- Built interactive in game computer terminal, developed stack logic for displaying windows, and logic for displaying shortcuts.
+- Drove initiative for revamping UXUI for accessibility, resulting in complete overhaul of assets.
+- Implemented CI/CD processes, managed pull requests, and solved merge conflics to maintain code quality and integration.
+- Handled deployment of game utilizing Github Pages and automated DevOps pipeline.
+- Served as scrum master, delivering project 17% ahead of schedule.
+- **Tech:** Godot Engine, GDScript, Figma, CI/CD, DevOps, UX
+- [About Page](https://psyche.ssl.berkeley.edu/get-involved/capstone-projects/capstone-projects-iridium-class/web-based-game-for-psyche-uci-r/)
+- [Play Game]([https://www.nasa.gov/mission/psyche/](https://missiontopsyche-iridium.github.io/iridium_21r_web_game-uci/))
 
 #### [Personal Injury Law Firm AI Intake Agent](https://github.com/nobantahir/Personal-Injury-Intake-Agent)
 - Developed an end-to-end AI-powered client intake system using **OpenAI GPT-4.1** and Streamlit, automating legal screening via conversational, agentic AI.
@@ -27,7 +38,7 @@ Informatics (HCI) student at UC Irvine graduating Spring 2025. I build efficient
 
 ---
 
-### 🔍 Featured Projects
+### 🔍 Learning Projects
 
 #### [NLP Web Search Engine](https://github.com/nobantahir/NLP_Web_Search_Engine)
 - Architected a search engine processing 37,000+ documents with custom tokenization and Porter stemming algorithms.
@@ -40,21 +51,18 @@ Informatics (HCI) student at UC Irvine graduating Spring 2025. I build efficient
 
 ### 🔭 Currently Working On
 
-**Psyched Out** – NASA Capstone Project  
-- Creating an educational RPG using Godot Engine that teaches kids about asteroid Psyche’s surface and metals.
-- Building mechanics focused on learning engagement and accessibility.
-- **Tech:** Godot Engine, GDScript, Figma  
-- [Learn more](https://www.nasa.gov/mission/psyche/)
+**Under Construction...**
 
 ---
 
 ### 🎓 Currently Learning
 - **AI/LLM Tech:** LangChain, Gradio, LangGraph, agentic AI, LLM orchestration and workflows
-- **Web & App:** TypeScript, Godot Engine, GDScript
+- **Web & App:** TypeScript
 
 ---
 
 ### 👔 Experience Highlights
+- **Software Engineering:** Served as lead developer on an educational game project for NASA.
 - **AI+Business:** Built an ethical AI agent for legal intake, bringing LLM automation and agentic flow into law firm operations.
 - **Research:** Led MindRx, a medication adherence solution using AI-powered notifications.
 - **Product Management:** Built and directed Irvine Valley College's award-winning esports program.
