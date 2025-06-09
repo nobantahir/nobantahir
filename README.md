@@ -27,7 +27,7 @@ I am an Informatics (HCI) graduate from UC Irvine 25'. I build efficient, user-c
 - Served as scrum master, delivering project 17% ahead of schedule.
 - **Tech:** Godot Engine, GDScript, Figma, CI/CD, DevOps, UX
 - [About Page](https://psyche.ssl.berkeley.edu/get-involved/capstone-projects/capstone-projects-iridium-class/web-based-game-for-psyche-uci-r/)
-- [Play Game]([https://www.nasa.gov/mission/psyche/](https://missiontopsyche-iridium.github.io/iridium_21r_web_game-uci/))
+- [Play Game](https://missiontopsyche-iridium.github.io/iridium_21r_web_game-uci/)
 
 #### [Personal Injury Law Firm AI Intake Agent](https://github.com/nobantahir/Personal-Injury-Intake-Agent)
 - Developed an end-to-end AI-powered client intake system using **OpenAI GPT-4.1** and Streamlit, automating legal screening via conversational, agentic AI.
