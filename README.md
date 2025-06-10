@@ -18,7 +18,8 @@ I am an Informatics (HCI) graduate from UC Irvine 25'. I build efficient, user-c
 
 ### 🤖 Completed Projects
 
-#### [NASA - Psyched Out](https://github.com/MissionToPsyche-Iridium/iridium_21r_web_game-uci)  
+#### [NASA - Psyched Out](https://github.com/MissionToPsyche-Iridium/iridium_21r_web_game-uci)
+- [About Page](https://psyche.ssl.berkeley.edu/get-involved/capstone-projects/capstone-projects-iridium-class/web-based-game-for-psyche-uci-r/) | [Play Game](https://missiontopsyche-iridium.github.io/iridium_21r_web_game-uci/)
 - Created an educational RPG for NASA using the Godot Engine that teaches children about the NASA Psyche mission.
 - Built interactive in game computer terminal, developed stack logic for displaying windows, and logic for unlocking shortcuts.
 - Drove initiative for revamping UX/UI for accessibility, resulting in complete overhaul of assets meeting WCAG standards.
@@ -26,8 +27,6 @@ I am an Informatics (HCI) graduate from UC Irvine 25'. I build efficient, user-c
 - Handled deployment of game utilizing Github Pages and automated DevOps pipeline.
 - Served as scrum master, delivering project 17% ahead of schedule.
 - **Tech:** Godot Engine, GDScript, Figma, CI/CD, DevOps, UX
-- [About Page](https://psyche.ssl.berkeley.edu/get-involved/capstone-projects/capstone-projects-iridium-class/web-based-game-for-psyche-uci-r/)
-- [Play Game](https://missiontopsyche-iridium.github.io/iridium_21r_web_game-uci/)
 - **Built With:** Godot, GDScript, Figma, UX, GitHub Pages, GitHub Actions
 
 #### [Personal Injury Law Firm AI Intake Agent](https://github.com/nobantahir/Personal-Injury-Intake-Agent)
