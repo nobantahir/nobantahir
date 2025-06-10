@@ -28,7 +28,7 @@ I am an Informatics (HCI) graduate from UC Irvine 25'. I build efficient, user-c
 - **Tech:** Godot Engine, GDScript, Figma, CI/CD, DevOps, UX
 - [About Page](https://psyche.ssl.berkeley.edu/get-involved/capstone-projects/capstone-projects-iridium-class/web-based-game-for-psyche-uci-r/)
 - [Play Game](https://missiontopsyche-iridium.github.io/iridium_21r_web_game-uci/)
-**Built With:** Godot, GDScript, Figma, UX, GitHub Pages, GitHub Actions
+- **Built With:** Godot, GDScript, Figma, UX, GitHub Pages, GitHub Actions
 
 #### [Personal Injury Law Firm AI Intake Agent](https://github.com/nobantahir/Personal-Injury-Intake-Agent)
 - Developed an end-to-end AI-powered client intake system using **OpenAI GPT-4.1** and Streamlit, automating legal screening via conversational, agentic AI.
@@ -48,7 +48,7 @@ I am an Informatics (HCI) graduate from UC Irvine 25'. I build efficient, user-c
 
 #### [WiFi Network Simulator](https://github.com/nobantahir/WiFi-Network-Simulator)
 - Designed a scalable, object-oriented simulator for dynamic network-topology scenarios and performance analysis.
-**Built With:** Python, WiFi Standards
+- **Built With:** Python, WiFi Standards
 
 ---
 
