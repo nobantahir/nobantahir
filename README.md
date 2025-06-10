@@ -1,8 +1,8 @@
 # Howdy, I'm Noban Tahir ✌️
 
-## 🐘 Full Stack Developer | Product Manager | UX Advocate | AI Builder
+## 🐘 Full Stack Developer | UX Advocate | AI Builder | Product Manager
 
-I am an Informatics (HCI) graduate from UC Irvine 25'. I build efficient, user-centered software solutions focused on health technology, education, and responsible AI/LLM integration.
+I am an Informatics (HCI) graduate from UC Irvine 25'. I build efficient, user-centered software solutions focused on education and responsible AI/LLM integration.
 
 ---
 
@@ -19,22 +19,23 @@ I am an Informatics (HCI) graduate from UC Irvine 25'. I build efficient, user-c
 ### 🤖 Completed Projects
 
 #### [NASA - Psyched Out](https://github.com/MissionToPsyche-Iridium/iridium_21r_web_game-uci)  
-- Created an educational RPG for NASA using the Godot Engine that teaches school aged children about asteroid Psyche’s surface and metals.
-- Built interactive in game computer terminal, developed stack logic for displaying windows, and logic for displaying shortcuts.
-- Drove initiative for revamping UXUI for accessibility, resulting in complete overhaul of assets.
+- Created an educational RPG for NASA using the Godot Engine that teaches children about the NASA Psyche mission.
+- Built interactive in game computer terminal, developed stack logic for displaying windows, and logic for unlocking shortcuts.
+- Drove initiative for revamping UX/UI for accessibility, resulting in complete overhaul of assets meeting WCAG standards.
 - Implemented CI/CD processes, managed pull requests, and solved merge conflics to maintain code quality and integration.
 - Handled deployment of game utilizing Github Pages and automated DevOps pipeline.
 - Served as scrum master, delivering project 17% ahead of schedule.
 - **Tech:** Godot Engine, GDScript, Figma, CI/CD, DevOps, UX
 - [About Page](https://psyche.ssl.berkeley.edu/get-involved/capstone-projects/capstone-projects-iridium-class/web-based-game-for-psyche-uci-r/)
 - [Play Game](https://missiontopsyche-iridium.github.io/iridium_21r_web_game-uci/)
+**Built With:** Godot, GDScript, Figma, UX, GitHub Pages, GitHub Actions
 
 #### [Personal Injury Law Firm AI Intake Agent](https://github.com/nobantahir/Personal-Injury-Intake-Agent)
 - Developed an end-to-end AI-powered client intake system using **OpenAI GPT-4.1** and Streamlit, automating legal screening via conversational, agentic AI.
 - Iteratively fine-tuned AI prompts to incorporate guard rails, ensure accurate data capture, and trigger safe/complete assessments for case qualification.
 - Integrated **structured data extraction** and dynamic questioning logic to adapt conversational flow in real time.
 - Designed the entire solution with a strong focus on **ethical AI implementation**, ensuring transparency, privacy, clear legal disclaimers, and built-in human oversight—demonstrating practical, responsible LLM deployment for business automation.
-- **Tech:** Python, Streamlit, OpenAI API, prompt engineering, guard rails, agentic workflow concepts
+- **Built With:** Python, Streamlit, OpenAI API, Prompt Engineering, AI Ethics, Agentic Workflow
 
 ---
 
@@ -43,9 +44,11 @@ I am an Informatics (HCI) graduate from UC Irvine 25'. I build efficient, user-c
 #### [NLP Web Search Engine](https://github.com/nobantahir/NLP_Web_Search_Engine)
 - Architected a search engine processing 37,000+ documents with custom tokenization and Porter stemming algorithms.
 - Engineered memory-efficient partial indexing reducing RAM by 78% and rapid, compressed storage.
+- **Built With:** Python, Flask, Indexing, Tokenization, Binary File Compression, NLTK Library
 
 #### [WiFi Network Simulator](https://github.com/nobantahir/WiFi-Network-Simulator)
 - Designed a scalable, object-oriented simulator for dynamic network-topology scenarios and performance analysis.
+**Built With:** Python, WiFi Standards
 
 ---
 
